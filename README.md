@@ -3,7 +3,7 @@
   
 - 👀 I’m interested in web development, machine learning, artificial intelligence, robotics, iot, linux, cyber security, and cloud computing
 - 🌱 I’m currently learning python
-- 📫 Contact me via email : mraihanaf0@gmail.com
+- 📫 Contact me via email : rai@rainetwork.my.id
 - 😄 Pronouns: He/Him
 
 <!---
